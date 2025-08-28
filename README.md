@@ -22,21 +22,29 @@ Python examples for Minecraft's new Server Management Protocol (25w35a+). Featur
 
 1. Enable the management API in your server properties:
 
+```
 management-server-enabled=true
 management-server-host=localhost
 management-server-port=25585
+```
 
 2. Clone this repository:
 
+```
 git clone https://github.com/your-username/mc-msmp-examples-py.git
+```
 
 3. Install dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 4. Run the GUI:
 
+```
 python management-server-gui.py
+```
 
 ## Project Structure
 

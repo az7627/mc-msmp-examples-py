@@ -22,21 +22,29 @@ Minecraft 新服务端管理协议(25w35a+)的 Python 示例。包含 GUI 工具
 
 1. 在服务器配置文件中启用管理 API：
 
+```
 management-server-enabled=true
 management-server-host=localhost
 management-server-port=25585
+```
 
 2. 克隆此仓库：
 
+```
 git clone https://github.com/your-username/mc-msmp-examples-py.git
+```
 
 3. 安装依赖：
 
+```
 pip install -r requirements.txt
+```
 
 4. 运行 GUI：
 
+```
 python management-server-gui.py
+```
 
 ## 项目结构
 
