@@ -48,11 +48,13 @@ python management-server-gui.py
 
 ## Project Structure
 
+```
 management-server-gui.py    # Main GUI application
 simple-example.py           # Basic code examples
 notification-listener.py    # Server event listener
 discover.json               # Protocol schema
 README.md                   # This file
+```
 
 ## License
 

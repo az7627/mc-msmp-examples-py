@@ -48,11 +48,13 @@ python management-server-gui.py
 
 ## 项目结构
 
+```
 management-server-gui.py    # 主 GUI 应用程序
 simple-example.py           # 基础代码示例
 notification-listener.py    # 服务器事件监听器
 discover.json               # 协议模式定义
 README-zh_cn.md            # 本文件
+```
 
 ## 许可证
 
