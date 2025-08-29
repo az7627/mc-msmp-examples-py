@@ -31,7 +31,7 @@ management-server-port=25585
 2. Clone this repository:
 
 ```
-git clone https://github.com/your-username/mc-msmp-examples-py.git
+git clone https://github.com/az7627/mc-msmp-examples-py.git
 ```
 
 3. Install dependencies:
