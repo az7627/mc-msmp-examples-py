@@ -58,4 +58,4 @@ README.md                   # This file
 
 ## License
 
-MIT
+Unlicense
